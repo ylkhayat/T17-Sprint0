@@ -11,6 +11,7 @@
 
 
 Perihan Mohamed Kamel 37-4034
+<<<<<<< HEAD
 =======
  
 
@@ -31,7 +32,9 @@ Perihan Mohamed Kamel 37-4034
 #### Member 5
 ##### Anas Mahmoud Shaaban 37-6926
 
-#### Member 6
-#### Nadine Tarek Elnaghy 37-1156
 
 
+=======
+Omar El-Sobky 37-6244
+
+Nadine Tarek Elnaghy 37-1156
