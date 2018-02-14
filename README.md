@@ -25,10 +25,13 @@ Perihan Mohamed Kamel 37-4034
 #### Member 3
 ##### Hadeer mohamed 37-5898
 
-####Member 4
+#### Member 4
 #### Perihan Mohamed Kamel 37-4034
 
 #### Member 5
 ##### Anas Mahmoud Shaaban 37-6926
+
+#### Member 6
+#### Nadine Tarek Elnaghy 37-1156
 
 
