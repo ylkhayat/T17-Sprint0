@@ -11,24 +11,14 @@
 
 
 
+
+
 #### Member 1
-##### Dina Hisham Elkafrawy 37-2387
+##### Engy Ahmed Aly Fawaz 37-0690 
 
 #### Member 2
-##### Engy Ahmed Aly Fawaz 37-0690 
- 
-#### Member 3
-##### Hadeer mohamed 37-5898
-
-#### Member 4
-#### Perihan Mohamed Kamel 37-4034
-
-#### Member 5
-##### Anas Mahmoud Shaaban 37-6926
-
-#### Member 6
 ##### Ali Ahmed Mohamed Ahmed 37-6941
 
-#### Member 7
+#### Member 3
 ##### SeifEldin Ahmed AbdElMonsef 37-5628
 
