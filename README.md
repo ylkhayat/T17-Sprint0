@@ -1,7 +1,7 @@
 
 # **Software Engineering - Sprint Term 2018**
 ## Github - Sprint 0 - Tutorial 17
-![Header Image](https://imgur.com/kDSrghL)
+![Header Image](https://images.pexels.com/photos/18105/pexels-photo.jpg?w=1260&h=750&auto=compress&cs=tinysrgb)
 
 ## Sprint0
 
