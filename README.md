@@ -1,7 +1,7 @@
 
 # **Software Engineering - Sprint Term 2018**
 ## Github - Sprint 0 - Tutorial 17
-![Header Image](https://drive.google.com/open?id=1FkI9T3BmLHT7FfjGPrOtDTJvlzNj9AxI)
+![Header Image](https://imgur.com/wkqOoWd)
 
 ## About
 **This is the main Repository for Tutorial 17 in the SE course and information about each member would be added by him/herself after pulling, editing and pushing this README MD file.**
