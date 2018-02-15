@@ -17,7 +17,7 @@
 ##### Dina Hisham Elkafrawy 37-2387
 
 #### Member 2
-##### Engy Ahmed Aly Fawaz 37-0690 
+##### Engy Ahmed Aly Fawaz 37-0690
 
 #### Member 3
 ##### Hadeer mohamed 37-5898
@@ -62,3 +62,6 @@
 
 ### Member 16
 #### Yara Ayman Mahmoud 34-3080
+
+### Member 17
+### Merna Adel Ghabour 37-4320
